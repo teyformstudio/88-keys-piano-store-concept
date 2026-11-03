@@ -1,6 +1,6 @@
 # Publication record
 
-Updated: 2026-10-26
+Updated: 2026-11-03
 
 ## Release source
 
@@ -21,7 +21,8 @@ Updated: 2026-10-26
 
 ## Search and analytics
 
-- The page declares noindex, nofollow intentionally: it is a portfolio demonstration, not a live shop. No sitemap or Search Console submission is configured.
-- Analytics are not configured.
+- The current user request expands search discovery to the existing portfolio projects. The root is now indexable and described in its title as a storefront design demo. Existing visible demo disclosures, illustrative product data and the disabled real-order flow are preserved.
+- A one-page canonical XML sitemap, robots sitemap declaration, ownership meta tag supplied by Search Console and a noindex 404 page are included. Search Console ownership and sitemap processing must be verified after deployment; neither is implied by these files.
+- Cloudflare Pages Web Analytics was enabled and deployed on 2026-11-03. Its script was verified in the published page; actual receipt remains a separate check.
 - No custom domain is connected.
 
